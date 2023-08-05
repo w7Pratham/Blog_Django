@@ -24,7 +24,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = "django-insecure-mixdil--rmj4j^!q6&=_2&crk3z=ai1=%9z7yzwm4a*o9sq%=4"
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['BlogDjango.pythonanywhere.com']
 
